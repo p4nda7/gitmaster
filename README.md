@@ -1,2 +1,0 @@
-# gitmaster
-train git 
