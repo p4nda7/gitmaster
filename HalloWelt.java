@@ -3,5 +3,6 @@ public class HalloWelt {
         System.out.println("Ich bin Commit 1");
         System.out.println("Ich bin Commit 2");
         System.out.println("Ich bin Commit 3");
+        System.out.println("Ich bin Commit 4");
     }
 }
