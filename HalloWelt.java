@@ -1,5 +1,5 @@
 public class HalloWelt {
     public static void main(String[] args) {
-        System.out.println("Ich will recommitten");
+        System.out.println("Ich bin Commit 1");
     }
 }
